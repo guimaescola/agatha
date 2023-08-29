@@ -1,0 +1,42 @@
+.piano{
+box-sizing: border-box;
+
+position: absolute;
+width: 1323px;
+height: 66px;
+
+background: #60B5D0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.lingua{
+position: absolute;
+width: 425px;
+height: 472px;
+
+background: #60ADE3;
+border-radius: 8px;
+}
+
+.olho{
+
+position: absolute;
+width: 851px;
+height: 472px;
+
+background: #629EC9;
+border-radius: 8px;
+}
+
+.plano{
+box-sizing: border-box;
+
+position: absolute;
+width: 1323px;
+height: 74px;
+
+background: #94D8EE;
+border: 1px solid #060606;
+border-radius: 5px;
+}
